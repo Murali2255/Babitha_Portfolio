@@ -1125,3 +1125,7 @@ section {
   justify-content: center;
   align-items: center;
 }
+.linkin-class{
+  text-decoration: none;
+  color:#173b6c
+}
